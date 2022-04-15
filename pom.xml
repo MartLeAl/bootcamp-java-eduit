@@ -6,4 +6,7 @@
   <packaging>pom</packaging>
   <name>Modulo padre del bootcamp</name>
   <description>Primer modulo de todo el bootcamp</description>
+  <modules>
+  	<module>app-web</module>
+  </modules>
 </project>
